@@ -1,0 +1,11 @@
+{
+  "name": "DWolfs-Lib",
+  "version": "0.0.1",
+  "factorio_version": "2.0",
+  "title": "DWolf's Lib",
+  "author": "DWolf",
+  "contact": "drewwbutler@gmail.com",
+  "homepage": "",
+  "description": "Library for all DWolf's mods.",
+  "dependencies": ["base >= 2.0", "? space-age >= 2.0"]
+}
